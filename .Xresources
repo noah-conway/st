@@ -1,21 +1,94 @@
-st.background: 			#121415
-st.foreground:			#A3BAD0
+! --- ~/.Xresources ------------------------------------------------------------
+! ------------------------------------------------------------------------------
+! --- generated with 4bit Terminal Color Scheme Designer -----------------------
+! ------------------------------------------------------------------------------
+! --- http://ciembor.github.com/4bit -------------------------------------------
+! ------------------------------------------------------------------------------
+
+! --- special colors ---
+
+*background: #202020
+*foreground: #d9e6f2
+
+! --- standard colors ---
+
+! black
+*color0: #000000
+
+! bright_black
+*color8: #202020
+
+! red
+*color1: #a27f74
+
+! bright_red
+*color9: #c6c2c7
+
+! green
+*color2: #5aae8c
+
+! bright_green
+*color10: #aed2cf
+
+! yellow
+*color3: #8aae74
+
+! bright_yellow
+*color11: #bed2c7
+
+! blue
+*color4: #7267bb
+
+! bright_blue
+*color12: #b6badf
+
+! magenta
+*color5: #a267a3
+
+! bright_magenta
+*color13: #c6bad7
+
+! cyan
+*color6: #5a96bb
+
+! bright_cyan
+*color14: #aecadf
+
+! white
+*color7: #d9d9d9
+
+! bright_white
+*color15: #ffffff
+
+
+! ------------------------------------------------------------------------------
+! --- end of terminal colors section -------------------------------------------
+! ------------------------------------------------------------------------------
 
 
 
-st.color0:			#353540
-st.color8:			#545466
-st.color1:			#8c5760
-st.color9:			#b26f7a
-st.color2:			#7b8c58
-st.color10:			#9db270
-st.color3:			#8c6e43
-st.color11:			#b28c55
-st.color4:			#58698c
-st.color12:			#7086b2
-st.color5:			#7b5e7d
-st.color13:			#9c77b2
-st.color6:			#66808c
-st.color14:			#82a2b2
-st.color7:			#8c8b8b
-st.color15:			#b8b8c8
+
+
+!st.background: 			#121415
+
+!st.foreground:			#A3BAD0
+
+
+
+!st.color0:			#353540
+!st.color8:			#545466
+!st.color1:			#8c5760
+!st.color9:			#b26f7a
+!st.color2:			#7b8c58
+!st.color10:			#9db270
+!st.color3:			#8c6e43
+!st.color11:			#b28c55
+!st.color4:			#58698c
+!st.color12:			#7086b2
+!st.color5:			#7b5e7d
+!st.color13:			#9c77b2
+!st.color6:			#66808c
+!st.color14:			#82a2b2
+!st.color7:			#8c8b8b
+!st.color15:			#b8b8c8
+
